@@ -1,2 +1,1 @@
-# hello_23Sep
-New repository on 23Sep
+To learn about open source projects
