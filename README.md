@@ -1,1 +1,1 @@
-Solutions comprising on the problems solved in hackerrank site.
+Solutions comprising on the problems solved by myself in hackerrank site.
