@@ -1,1 +1,1 @@
-To learn about open source projects
+Solutions comprising on the problems solved in hackerrank site.
